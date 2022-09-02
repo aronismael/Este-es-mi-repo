@@ -1,0 +1,36 @@
+[33mcommit e46106f890dc5ae3dd4bba2332a2ba75b9abe74f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 08c944d e697a10
+Author: aronismael <ai.ledezmaibanez@cetis112.edu.mx>
+Date:   Fri Sep 2 12:57:17 2022 -0500
+
+    Merge branch 'miSegundaRama'
+
+[33mcommit 08c944d096c1ca852fd0f0f943c55351dee8e9cf[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: aronismael <ai.ledezmaibanez@cetis112.edu.mx>
+Date:   Fri Sep 2 12:48:05 2022 -0500
+
+    este es uno de los muchos commits
+
+[33mcommit e697a10d9a8cc3f4475228f1ef70e9bde2a09e19[m[33m ([m[1;31morigin/miSegundaRama[m[33m)[m
+Author: aronismael <ai.ledezmaibanez@cetis112.edu.mx>
+Date:   Fri Sep 2 11:40:25 2022 -0500
+
+    Este es un commit bonito
+
+[33mcommit 8dab3db70d64d02d634d5f1423f7fdacb5cb7fef[m
+Author: aronismael <ai.ledezmaibanez@cetis112.edu.mx>
+Date:   Fri Sep 2 11:38:22 2022 -0500
+
+    otro commit parecido
+
+[33mcommit 980fd2ec18cd1aa108df2dcf74961a7d1e1fe58b[m
+Author: aronismael <ai.ledezmaibanez@cetis112.edu.mx>
+Date:   Fri Sep 2 11:34:23 2022 -0500
+
+    este es otro commit
+
+[33mcommit 60286c6e865f9ba112905cc94ff5bc3131099d9d[m
+Author: aronismael <ai.ledezmaibanez@cetis112.edu.mx>
+Date:   Fri Sep 2 11:32:37 2022 -0500
+
+    anadiendo archivo
